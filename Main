@@ -141,7 +141,6 @@
       document.body.innerHTML = "";
       setTimeout(function() {
         var games = [
-          { name: "Slope", url: "https://mathadventure1.github.io/slope/slope/index.html" },
           { name: "Eaglercraft ( 1.5.2 )", url: "https://sd592g.github.io/zj684od4lfg/" },
           { name: "Eaglercraft ( 1.8.8 )", url: "https://resent4-0.vercel.app/" },
           { name: "Eaglercraft servers", url: "https://servers.eaglercraft.com/" },
