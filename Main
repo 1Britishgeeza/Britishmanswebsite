@@ -5,8 +5,6 @@
 
 
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,7 +69,7 @@
 <body>
   <!-- New BLOCKS message -->
   <div id="blocksMessage">BL0CKS: SECURLY, GOGUARDIAN, LANSCHOOL AIR</div>
-  <div id="blocksMessage">SHELL SHOCKERS ONLY WORKS IN ABOUT:BLANK FOR SOME REASON</div>
+  <div id="blocksMessage">SHELL SHOCKERS ONLY WORKS IN ABOUT:BLANK AND DIEP.IO ONLY WORKS IN .HTML WHAT IS HAPPENING</div>
   <div id="blocksMessage">CTRL+G TO SEARCH FOR GAMES</div>
   <h1>BRITISH MANS WEBSITE >:D</h1>
   <button id="launchGames" class="button">Games</button>
@@ -129,6 +127,7 @@
         "No i'm not adding freaky stuff to this site stay mad",
         "Me after seeing the 10th goofy ahh ripoff this week",
         "Pissing off your principal since 2023",
+        "Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. they locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. ",
         "Dinguschan u dropped this ---> 👑",
         "Probably not coded by ChatGPT"
       ];
@@ -143,19 +142,26 @@
       setTimeout(function() {
         var games = [
           { name: "Slope", url: "https://mathadventure1.github.io/slope/slope/index.html" },
-          { name: "Minecraft ( 1.5.2 )", url: "https://sd592g.github.io/zj684od4lfg/" },
-          { name: "Minecraft ( 1.8.8 )", url: "https://resent-flax.vercel.app/#" },
-          { name: "Roblox", url: "https://www.easyfun.gg/games/roblox.html" },
+          { name: "Eaglercraft ( 1.5.2 )", url: "https://sd592g.github.io/zj684od4lfg/" },
+          { name: "Eaglercraft ( 1.8.8 )", url: "https://resent4-0.vercel.app/" },
+          { name: "Eaglercraft servers", url: "https://servers.eaglercraft.com/" },
+          { name: "Roblox ( server 1 )", url: "https://www.easyfun.gg/games/roblox.html" },
+          { name: "Roblox ( server 2 )", url: "https://dashboard-cq4z.onrender.com/?ng_ifp_partner=skool" },
           { name: "Run 3", url: "https://lekug.github.io/tn6pS9dCf37xAhkJv/" },
+          { name: "Pixel gun 3D", url: "https://games.crazygames.com/en_US/pixel-gun-3d/index.html" },
+          { name: "Rooftop snipers", url: "https://rooftop-snipers.github.io/file/" },
           { name: "Stickman Hook", url: "https://mountain658.github.io/g/stickmanhook/index.html" },
           { name: "We become what we behold", url: "https://gnhustgames.github.io/wbwwb/" },
+          { name: "8 ball pool multiplayer", url: "https://foony.com/games/8-ball-pool-online-billiards?&platform=crazygames" },
           { name: "Slither.io Ripoff", url: "https://gulper.io/" },
           { name: "Skribbl.io", url: "https://skribbl.io/" },
-          { name: "2048", url: "https://2048game.com/" },
           { name: "Paper.io 2", url: "https://mountain658.github.io/g/paperio2/paperio2.html" },
+          { name: "Diep.io", url: "https://diep.io/" },
+          { name: "2048", url: "https://2048game.com/" },
           { name: "Subway Surfers", url: "https://dddavit.github.io/subway/" },
           { name: "World's Hardest Game", url: "https://mountain658.github.io/zworldsHardestGame.html" },
           { name: "Drive Mad", url: "https://ubg365.github.io/drive-mad/play.html" },
+          { name: "HexGL", url: "https://hexgl.bkcore.com/play/" },
           { name: "BitLife", url: "https://ubg365.github.io/bitlife-life-simulator/play.html" },
           { name: "Shell Shockers", url: "https://shellshock.io/" },
           { name: "Moto X3M", url: "https://ubg365.github.io/moto-x3m/play.html" },
@@ -176,6 +182,7 @@
           { name: "Tetris ( NES )", url: "https://downloads.retrostic.com/play.php?console_slug=nes&rom_url=https://downloads.retrostic.com/roms/Tetris%20%28USA%29.zip" },
           { name: "EarthBound", url: "https://downloads.retrostic.com/play.php?console_slug=snes&rom_url=https://downloads.retrostic.com/roms/EarthBound%20%28USA%29.zip" },
           { name: "Pac Man", url: "https://downloads.retrostic.com/play.php?console_slug=mame&rom_url=https://downloads.retrostic.com/roms/pacman.zip" },
+          { name: "New rally x", url: "https://www.retrogames.cc/embed/9312-new-rally-x.html" },
           { name: "Super Mario Bros", url: "https://downloads.retrostic.com/play.php?console_slug=nes&rom_url=https://downloads.retrostic.com/roms/Super%20Mario%20Bros%20%28E%29.zip" },
           { name: "Mike Tysons Punch Out", url: "https://retrogamesfree.com/mike-tysons-punch-out-usa.embed" },
           { name: "Hover Racer Drive", url: "https://ubg365.github.io/hover-racer-drive/" },
@@ -193,6 +200,7 @@
           { name: "Time shooter 2", url: "https://games.crazygames.com/en_US/time-shooter-2/index.html" },
           { name: "Time shooter 3", url: "https://games.crazygames.com/en_US/time-shooter-3-swat/index.html" },
           { name: "Bloxorz", url: "https://ad-freegames.github.io/flash/game/bloxorz.html" },
+          { name: "Tagpro", url: "https://tagpro.koalabeast.com/" },
           { name: "Baldis Basics", url: "https://igroutka.ru/loader/game/26471/" },
           { name: "BLOXD.IO", url: "https://bloxd.io/" },
           { name: "Doodle Jump", url: "https://webglmath.github.io/doodle-jump/" },
@@ -249,7 +257,8 @@
           { name: "Getting over it ( Scratch )", url: "https://turbowarp.org/389464290/embed?autoplay&addons=remove-curved-stage-border,pause,gamepad" },
           { name: "Basket Random", url: "https://www.snokido.com/files/games/html5/basket-random/index.html" },
           { name: "Soccer Random", url: "https://soccer-random.github.io/s8/soccer-random/" },
-          { name: "Infinite Craft", url: "https://infinite-craft.gg/infinite-craft/" },
+          { name: "Infinite Craft", url: "https://infinite-craft.com/infinite-craft/" },
+          { name: "Worldguessr", url: "https://www.worldguessr.com/" },
           { name: "Tomb of the mask", url: "https://mountain658.github.io/g/tombofthemask/index.html" } 
         ];
         var container = document.createElement("div");
@@ -303,7 +312,8 @@ document.getElementById("launchApps").onclick = function() {
             { name: "Kahoot Botter + Cheat", url: "https://kahoot.rocks/" },
             { name: "ChatGPT", url: "https://chatgptfree.ai/chat/" },
             { name: "Old game emulator", url: "https://demo.emulatorjs.org/" },
-            { name: "Test", url: "https://edgedcircles.com/" },
+            { name: "Google pixel", url: "https://appetize.io/embed/xc1w6f1krd589zhp22a0mgftyw?autoplay=false&debug=true&device=pixel4&embed=true&launchUrl=exp%3A%2F%2Fexp.host%2F%40snack%2Fsdk.46.0.0-ghV0%21Qgb8N&scale=65&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B&osVersion=11.0&deviceColor=black" },
+            { name: "Test", url: "https://agar.io/v0_84d65/#ffa" },
             { name: "Cookieduck games", url: "https://cookieduck-dev.github.io/" },
             { name: "Ruffle ( flash games emulator )", action: function() {
                 document.body.innerHTML = '<object id="ruffleFrame" type="text/html" data="https://ruffle.rs/demo/" style="width: 100%; height: 100vh;"></object>';
@@ -359,10 +369,10 @@ document.getElementById("launchBrowser").onclick = function() {
 };
 
 document.getElementById("exploits").onclick = function() {
-  document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/xb0603424" style="width: 100%; height: 100vh;"></object>';
+  document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/xd187e664" style="width: 100%; height: 100vh;"></object>';
 };
 document.getElementById("downloads").onclick = function() {
-  document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/x876e07f4" style="width: 100%; height: 100vh;"></object>';
+  document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/x9e0766cc" style="width: 100%; height: 100vh;"></object>';
 };
 
 
