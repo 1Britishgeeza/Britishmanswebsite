@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,6 +70,7 @@
   <button id="launchBrowser" class="button">Browser</button>
   <button id="exploits" class="button">Tools/exploits</button>
   <button id="downloads" class="button">Downloads</button>
+  <button id="newestver" class="button">Newest version</button>
   <button id="openInAboutBlank" class="button">Open in about:blank</button> <!-- New Button -->
   <div id="randomPhrase"></div>
   <div id="instructions" class="hidden">
@@ -141,6 +135,7 @@
       document.body.innerHTML = "";
       setTimeout(function() {
         var games = [
+          { name: "Slope", url: "https://mathadventure1.github.io/slope/slope/index.html" },
           { name: "Eaglercraft ( 1.5.2 )", url: "https://sd592g.github.io/zj684od4lfg/" },
           { name: "Eaglercraft ( 1.8.8 )", url: "https://resent4-0.vercel.app/" },
           { name: "Eaglercraft servers", url: "https://servers.eaglercraft.com/" },
@@ -372,6 +367,9 @@ document.getElementById("exploits").onclick = function() {
 };
 document.getElementById("downloads").onclick = function() {
   document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/x9e0766cc" style="width: 100%; height: 100vh;"></object>';
+};
+document.getElementById("newestver").onclick = function() {
+  document.body.innerHTML = '<object id="browserFrame" type="text/html" data="https://html.cafe/xf3b7d5cc" style="width: 100%; height: 100vh;"></object>';
 };
 
 
