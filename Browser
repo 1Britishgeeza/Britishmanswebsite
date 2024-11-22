@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed URL with Object</title>
+    <style>
+        /* Ensure the object takes up the entire viewport */
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        object {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <object data="https://infinitetutoring.com.au/history/textbook?historicalfigure" type="text/html">
+        <p>Your browser does not support embedded content.</p>
+    </object>
+</body>
+</html>
